@@ -1,0 +1,856 @@
+marca,clase,combustible,cantidad
+CHEVROLET,Automóvil,Gasolina,125139
+CHEVROLET,Camioneta,Gasolina,71607
+CHEVROLET,Jeep,Gasolina,54927
+MAZDA,Camioneta,Gasolina,43323
+TOYOTA,Camioneta,Gasolina,42165
+HYUNDAI,Automóvil,Gasolina,26530
+VOLKSWAGEN,Automóvil,Gasolina,25291
+NISSAN,Camioneta,Gasolina,23717
+SUZUKI,Motocicleta,Gasolina,20522
+FORD,Camioneta,Gasolina,20370
+SUZUKI,Automóvil,Gasolina,20368
+TOYOTA,Automóvil,Gasolina,19505
+CHEVROLET,Furgoneta P,Gasolina,16662
+NISSAN,Automóvil,Gasolina,16338
+MAZDA,Automóvil,Gasolina,15036
+HINO,Camión,Diesel,12221
+FIAT,Automóvil,Gasolina,12074
+CHEVROLET,Camión,Diesel,11395
+RENAULT,Automóvil,Gasolina,11258
+CHEVROLET,Camioneta,Diesel,10592
+TOYOTA,Jeep,Gasolina,10167
+HYUNDAI,Jeep,Gasolina,9645
+DAEWOO,Automóvil,Gasolina,8606
+KIA,Automóvil,Gasolina,8161
+FORD,Jeep,Gasolina,7729
+MITSUBISHI,Jeep,Gasolina,7173
+SHINERAY,Motocicleta,Gasolina,7148
+PEUGEOT,Automóvil,Gasolina,6991
+YAMAHA,Motocicleta,Gasolina,6868
+FORD,Automóvil,Gasolina,6193
+MITSUBISHI,Camión,Diesel,5743
+DATSUN,Camioneta,Gasolina,5721
+LADA,Automóvil,Gasolina,5690
+MOTOR UNO,Motocicleta,Gasolina,5451
+SKODA,Automóvil,Gasolina,5439
+Otras Marcas,Motocicleta,Gasolina,5377
+MITSUBISHI,Camioneta,Gasolina,5106
+TRAXX,Motocicleta,Gasolina,4440
+KIA,Jeep,Gasolina,4275
+MITSUBISHI,Automóvil,Gasolina,4266
+SUZUKI,Jeep,Gasolina,4133
+NISSAN,Jeep,Gasolina,4068
+HONDA,Motocicleta,Gasolina,3962
+HYUNDAI,Furgoneta P,Gasolina,3898
+RANGER,Motocicleta,Gasolina,3803
+MITSUBISHI,Furgoneta P,Gasolina,3652
+DAIHATSU,Camión,Diesel,3465
+MERCEDES BENZ,Automóvil,Gasolina,3350
+FORD,Furgoneta P,Gasolina,3169
+CHEVROLET,Furgoneta C,Gasolina,2886
+HINO,Autobus,Diesel,2835
+FORD,Camión,Gasolina,2762
+TEKNO,Motocicleta,Gasolina,2743
+FORD,Camión,Diesel,2660
+HONDA,Automóvil,Gasolina,2633
+HYUNDAI,Camión,Diesel,2625
+TOYOTA,Furgoneta P,Gasolina,2413
+DAIHATSU,Jeep,Gasolina,2400
+LADA,Jeep,Gasolina,2310
+KIA,Furgoneta P,Gasolina,2281
+TOYOTA,Camioneta,Diesel,2246
+ORO MOTO,Motocicleta,Gasolina,2225
+BMW,Automóvil,Gasolina,2223
+JEEP,Jeep,Gasolina,2189
+KIA,Furgoneta C,Diesel,2053
+Otras Marcas,Automóvil,Gasolina,2032
+HINO,Volqueta,Diesel,2002
+JIALING,Motocicleta,Gasolina,1996
+HONDA,Jeep,Gasolina,1989
+HYUNDAI,Furgoneta C,Diesel,1986
+HYUNDAI,Furgoneta P,Diesel,1661
+LADA,Furgoneta P,Gasolina,1659
+MERCEDES BENZ,Autobus,Diesel,1642
+MERCEDES BENZ,Camión,Diesel,1639
+QMC,Motocicleta,Gasolina,1600
+TOYOTA,Camión,Diesel,1577
+NISSAN,Furgoneta P,Gasolina,1515
+KIA,Camión,Diesel,1480
+FIAT,Camioneta,Gasolina,1421
+LONCIN,Motocicleta,Gasolina,1405
+CITROEN,Automóvil,Gasolina,1392
+HYUNDAI,Jeep,Diesel,1328
+HYUNDAI,Furgoneta C,Gasolina,1265
+MAZDA,Furgoneta P,Gasolina,1260
+DATSUN,Automóvil,Gasolina,1260
+ISUZU,Camioneta,Gasolina,1236
+HUSSAR,Motocicleta,Gasolina,1235
+TOYOTA,Furgoneta C,Gasolina,1200
+DAIHATSU,Automóvil,Gasolina,1188
+VOLVO,Automóvil,Gasolina,1165
+PEGASO,Motocicleta,Gasolina,1158
+MAZDA,Camioneta,Diesel,1151
+QINGQI,Motocicleta,Gasolina,1111
+ISUZU,Camión,Diesel,1084
+LAND ROVER,Jeep,Gasolina,1080
+VOLKSWAGEN,Camioneta,Gasolina,1065
+MERCEDES BENZ,Volqueta,Diesel,1058
+CHEVROLET,Autobus,Diesel,1049
+SKODA,Furgoneta P,Gasolina,1001
+FORD,Volqueta,Diesel,940
+NISSAN,Camión,Diesel,932
+JIANSHE,Motocicleta,Gasolina,920
+DAYTONA,Motocicleta,Gasolina,849
+LINGKEN,Motocicleta,Gasolina,842
+FORD,Furgoneta C,Gasolina,841
+SUZUKI,Furgoneta P,Gasolina,838
+MITSUBISHI,Camioneta,Diesel,794
+MACK,Trailer,Diesel,793
+INTERNATIONAL,Trailer,Diesel,790
+HONDA,Furgoneta P,Gasolina,734
+QMC,Camión,Diesel,707
+MITSUBISHI,Furgoneta C,Gasolina,692
+MACK,Volqueta,Diesel,692
+DUCAR,Motocicleta,Gasolina,682
+VOLKSWAGEN,Furgoneta C,Gasolina,679
+KAWASAKI,Motocicleta,Gasolina,664
+KENWORTH,Trailer,Diesel,652
+DAIHATSU,Camioneta,Gasolina,652
+YASAKI,Motocicleta,Gasolina,627
+AUDI,Automóvil,Gasolina,621
+GMC,Camioneta,Gasolina,619
+DAYANG,Motocicleta,Gasolina,616
+LIFAN,Motocicleta,Gasolina,607
+TOYOTA,Furgoneta C,Diesel,598
+AUSTIN,Automóvil,Gasolina,588
+SKODA,Automóvil,Diesel,558
+CHEVROLET,Camión,Gasolina,556
+SKODA,Camioneta,Gasolina,555
+NISSAN,Camioneta,Diesel,548
+NISSAN,Volqueta,Diesel,545
+NISSAN,Furgoneta C,Gasolina,542
+FREIGHTLINER,Trailer,Diesel,530
+MACK,Otra Clase,Diesel,520
+JINCHENG,Motocicleta,Gasolina,519
+JEEP,Furgoneta P,Gasolina,516
+KIA,Jeep,Diesel,511
+VOLKSWAGEN,Furgoneta P,Gasolina,509
+Otras Marcas,Camioneta,Gasolina,491
+HINO,Tanquero,Diesel,481
+BAJAJ,Motocicleta,Gasolina,479
+SUZUKI,Furgoneta C,Gasolina,476
+KIA,Furgoneta P,Diesel,469
+DODGE,Camioneta,Gasolina,469
+INTERNATIONAL,Camión,Diesel,465
+SAIC WULING,Furgoneta C,Gasolina,463
+SUBARU,Automóvil,Gasolina,453
+Otras Marcas,Trailer,Diesel,446
+MAZDA,Furgoneta C,Gasolina,440
+INTERNATIONAL,Volqueta,Diesel,436
+CHEVROLET,Volqueta,Diesel,428
+MICARGI,Motocicleta,Gasolina,427
+Otras Marcas,Camión,Diesel,425
+ZOTYE,Jeep,Gasolina,413
+JIEDA,Motocicleta,Gasolina,408
+KIA,Furgoneta C,Gasolina,405
+HINO,Otra Clase,Diesel,405
+FORD,Tanquero,Diesel,402
+LONGJIA,Motocicleta,Gasolina,401
+SAEHAN,Camioneta,Gasolina,401
+MERCEDES BENZ,Trailer,Diesel,397
+DAIHATSU,Furgoneta P,Gasolina,397
+AMAZON,Motocicleta,Gasolina,377
+VOLKSWAGEN,Autobus,Diesel,370
+PEUGEOT,Furgoneta P,Gasolina,368
+SANYA,Motocicleta,Gasolina,365
+SINSKI,Motocicleta,Gasolina,348
+SCANIA,Camión,Diesel,340
+DAKAR,Motocicleta,Gasolina,335
+GALARDI,Motocicleta,Gasolina,334
+LAMBORBINI,Motocicleta,Gasolina,326
+AXXO,Motocicleta,Gasolina,325
+NISSAN,Furgoneta C,Diesel,325
+FIAT,Furgoneta P,Gasolina,320
+KOSHIN,Motocicleta,Gasolina,315
+MERCEDES BENZ,Otra Clase,Diesel,315
+KINGDOM,Motocicleta,Gasolina,314
+JAC,Camión,Diesel,299
+KINLON,Motocicleta,Gasolina,298
+FORD,Camioneta,Diesel,295
+GMC,Jeep,Gasolina,286
+VESPA,Motocicleta,Gasolina,282
+WILLYS,Jeep,Gasolina,279
+SKYGO,Motocicleta,Gasolina,278
+Otras Marcas,Autobus,Diesel,277
+SUKIDA,Motocicleta,Gasolina,277
+MITSUBISHI,Autobus,Diesel,270
+BMA,Motocicleta,Gasolina,266
+YAMOTO,Motocicleta,Gasolina,262
+FORD,Volqueta,Gasolina,261
+Otras Marcas,Furgoneta P,Gasolina,258
+MITSUBISHI,Jeep,Diesel,257
+KIA,Camioneta,Diesel,255
+MACAT,Motocicleta,Gasolina,255
+DAIHATSU,Camión,Gasolina,255
+HYUNDAI,Autobus,Diesel,251
+MITSUBISHI,Camión,Gasolina,247
+MITSUBISHI,Furgoneta P,Diesel,240
+OKAZAKI,Motocicleta,Gasolina,229
+ASIA,Furgoneta C,Diesel,227
+KTM,Motocicleta,Gasolina,224
+MERCEDES BENZ,Jeep,Gasolina,221
+FORD,Trailer,Diesel,218
+CHEVROLET,Trailer,Diesel,216
+KIA,Camioneta,Gasolina,212
+DATSUN,Furgoneta P,Gasolina,211
+FORD,Otra Clase,Diesel,209
+Otras Marcas,Volqueta,Diesel,202
+HINO,Camión,Gasolina,196
+MAZDA,Jeep,Gasolina,196
+CHANGHE,Furgoneta C,Gasolina,195
+MERCEDES BENZ,Tanquero,Diesel,195
+CHRYSLER,Automóvil,Gasolina,194
+FORD,Otra Clase,Gasolina,191
+ISUZU,Jeep,Gasolina,190
+TATA,Automóvil,Gasolina,186
+FORD,Autobus,Diesel,185
+GREAT WALL,Camioneta,Gasolina,185
+VOLVO,Volqueta,Diesel,185
+NISSAN,Otra Clase,Diesel,183
+TOYOTA,Camión,Gasolina,182
+LML,Motocicleta,Gasolina,179
+DAIHATSU,Camioneta,Diesel,173
+CHEVROLET,Tanquero,Diesel,170
+INTERNATIONAL,Otra Clase,Diesel,169
+HINO,Trailer,Diesel,165
+CHEVROLET,Otra Clase,Diesel,164
+HYUNDAI,Camioneta,Gasolina,161
+BMW,Motocicleta,Gasolina,161
+CHANGAN,Camioneta,Gasolina,160
+SSANGYONG,Jeep,Diesel,159
+MERCEDES BENZ,Furgoneta C,Diesel,158
+NIMBUS,Motocicleta,Gasolina,156
+CHEVROLET,Automóvil,Diesel,154
+ISUZU,Automóvil,Gasolina,153
+ISUZU,Autobus,Diesel,152
+PEUGEOT,Camioneta,Gasolina,150
+BYD,Automóvil,Gasolina,150
+SSANGYONG,Jeep,Gasolina,147
+DACIA,Automóvil,Gasolina,146
+HYUNDAI,Motocicleta,Gasolina,144
+Otras Marcas,Otra Clase,Diesel,143
+AUSTIN,Camioneta,Gasolina,141
+DAEWOO,Furgoneta P,Gasolina,138
+SRM,Motocicleta,Gasolina,137
+ASIA,Furgoneta C,Gasolina,136
+Otras Marcas,Furgoneta C,Gasolina,135
+PORSCHE,Automóvil,Gasolina,135
+JINBEI HAISE,Furgoneta C,Diesel,135
+SSANGYONG,Camioneta,Diesel,135
+GMC,Furgoneta P,Gasolina,134
+INTERNATIONAL,Camioneta,Gasolina,134
+NISSAN,Jeep,Diesel,132
+DAEWOO,Furgoneta C,Gasolina,132
+FAW,Camión,Diesel,132
+HARLEY DAVIDSON,Motocicleta,Gasolina,131
+NISSAN,Camión,Gasolina,130
+SCANIA,Volqueta,Diesel,128
+MITSUBISHI,Volqueta,Diesel,128
+SUBARU,Furgoneta P,Gasolina,126
+MACK,Camión,Diesel,125
+DODGE,Furgoneta C,Gasolina,124
+DODGE,Automóvil,Gasolina,124
+LAND ROVER,Furgoneta P,Gasolina,123
+CHEVROLET,Furgoneta P,Diesel,121
+CHERY,Jeep,Gasolina,121
+VOLKSWAGEN,Jeep,Gasolina,116
+NISSAN,Autobus,Diesel,115
+INTERNATIONAL,Tanquero,Diesel,114
+VOLVO,Furgoneta P,Gasolina,114
+CHANGHE,Camioneta,Gasolina,113
+Otras Marcas,Jeep,Gasolina,113
+ZX AUTO,Camioneta,Gasolina,109
+BMW,Jeep,Gasolina,107
+JMC,Camión,Diesel,105
+THUNDER,Motocicleta,Gasolina,103
+CHANGHE,Automóvil,Gasolina,102
+CHEVROLET,Furgoneta C,Diesel,102
+JEEP,Camioneta,Gasolina,101
+TOYOTA,Autobus,Diesel,101
+VOLKSWAGEN,Camión,Diesel,100
+ISUZU,Furgoneta P,Gasolina,98
+NISSAN,Furgoneta P,Diesel,98
+MAN,Camión,Diesel,95
+FORD,Tanquero,Gasolina,93
+CHERY,Automóvil,Gasolina,93
+DAIHATSU,Furgoneta C,Gasolina,92
+BMW,Furgoneta P,Gasolina,92
+VOLVO,Trailer,Diesel,91
+DODGE,Camión,Diesel,91
+GMC,Camión,Gasolina,90
+QMC,Furgoneta P,Gasolina,89
+ZOTYE,Furgoneta P,Gasolina,89
+CHRYSLER,Furgoneta C,Gasolina,88
+SSANGYONG,Furgoneta P,Diesel,88
+SCANIA,Trailer,Diesel,87
+VYCAST,Motocicleta,Gasolina,87
+VOLVO,Camión,Diesel,84
+CHEVROLET,Otra Clase,Gasolina,83
+DACIA,Furgoneta P,Gasolina,78
+HYUNDAI,Camión,Gasolina,78
+SCANIA,Autobus,Diesel,77
+DONGFENG,Camión,Diesel,75
+NISSAN,Tanquero,Diesel,75
+TOYOTA,Furgoneta P,Diesel,75
+INTERNATIONAL,Volqueta,Gasolina,75
+MITSUBISHI,Otra Clase,Diesel,75
+HYUNDAI,Camioneta,Diesel,73
+DAIHATSU,Furgoneta P,Diesel,73
+MERCEDES BENZ,Furgoneta P,Gasolina,73
+GMC,Furgoneta C,Gasolina,71
+Otras Marcas,Tanquero,Diesel,70
+DAIHATSU,Jeep,Diesel,70
+GMC,Camión,Diesel,70
+JMC,Camioneta,Diesel,70
+CHANGAN,Furgoneta C,Gasolina,69
+FIAT,Furgoneta C,Gasolina,69
+MAZDA,Camión,Diesel,69
+INTERNATIONAL,Jeep,Gasolina,67
+DAYUN,Motocicleta,Gasolina,64
+TOYOTA,Jeep,Diesel,63
+RENAULT,Furgoneta P,Gasolina,63
+FAW,Furgoneta C,Gasolina,63
+ISUZU,Furgoneta C,Gasolina,61
+FREIGHTLINER,Volqueta,Diesel,61
+MAN,Volqueta,Diesel,61
+SSANGYONG,Furgoneta P,Gasolina,60
+PORSCHE,Jeep,Gasolina,59
+LAND ROVER,Camioneta,Gasolina,59
+Otras Marcas,Camión,Gasolina,58
+DACIA,Camioneta,Gasolina,57
+TATA,Camioneta,Diesel,57
+Otras Marcas,Camioneta,Diesel,56
+KIA,Camión,Gasolina,56
+ZANYA,Motocicleta,Gasolina,55
+DODGE,Jeep,Gasolina,55
+FORD,Furgoneta C,Diesel,55
+MAN,Trailer,Diesel,55
+FORD,Autobus,Gasolina,55
+DODGE,Camión,Gasolina,55
+MITSUBISHI,Tanquero,Diesel,54
+HYUNDAI,Otra Clase,Diesel,54
+TOYOTA,Motocicleta,Gasolina,54
+LAND ROVER,Jeep,Diesel,53
+HYUNDAI,Otra Clase,Gasolina,52
+FAW,Camioneta,Gasolina,50
+KIA,Automóvil,Diesel,50
+MACK,Tanquero,Diesel,50
+ASIA,Autobus,Diesel,50
+DONGFENG,Autobus,Diesel,50
+OSAKA,Motocicleta,Gasolina,48
+CHEVROLET,Automóvil,Gas liquado de petróleo,48
+NISSAN,Trailer,Diesel,47
+TOYOTA,Otra Clase,Gasolina,47
+SAIC WULING,Camioneta,Gasolina,47
+ISUZU,Camión,Gasolina,46
+NISSAN,Otra Clase,Gasolina,46
+FOTON,Camión,Diesel,45
+HINO,Volqueta,Gasolina,45
+DAIHATSU,Tanquero,Diesel,44
+VOLVO,Otra Clase,Diesel,44
+QMC,Furgoneta P,Diesel,44
+CITROEN,Furgoneta C,Diesel,44
+HONDA,Furgoneta C,Gasolina,43
+ISUZU,Tanquero,Diesel,42
+JINBEI HAISE,Furgoneta C,Gasolina,42
+DODGE,Furgoneta P,Gasolina,42
+LADA,Camioneta,Gasolina,40
+HYUNDAI,Automóvil,Diesel,40
+VOLVO,Autobus,Diesel,40
+INTERNATIONAL,Autobus,Diesel,38
+CHEVROLET,Volqueta,Gasolina,37
+HYUNDAI,Tanquero,Diesel,37
+SSANGYONG,Camioneta,Gasolina,37
+FIAT,Camión,Diesel,37
+KENWORTH,Camión,Diesel,36
+CHRYSLER,Furgoneta P,Gasolina,36
+ASIA,Furgoneta P,Diesel,36
+VOLKSWAGEN,Volqueta,Diesel,36
+SCANIA,Otra Clase,Diesel,36
+ZX AUTO,Camioneta,Diesel,35
+ISUZU,Volqueta,Diesel,35
+SAEHAN,Automóvil,Gasolina,35
+KIA,Otra Clase,Diesel,35
+KIA,Autobus,Diesel,34
+CHEVROLET,Jeep,Diesel,34
+HYUNDAI,Volqueta,Diesel,33
+KENWORTH,Volqueta,Diesel,33
+QMC,Camioneta,Diesel,33
+INTERNATIONAL,Camión,Gasolina,32
+MERCEDES BENZ,Automóvil,Diesel,32
+PEUGEOT,Automóvil,Diesel,32
+MERCEDES BENZ,Camión,Gasolina,32
+TOYOTA,Otra Clase,Diesel,32
+LEXUS,Automóvil,Gasolina,31
+HINO,Autobus,Gasolina,31
+HINO,Furgoneta P,Diesel,31
+WILLYS,Camioneta,Gasolina,29
+FREIGHTLINER,Camión,Diesel,29
+CHEVROLET,Camioneta,Gas liquado de petróleo,29
+GMC,Volqueta,Diesel,28
+GMC,Trailer,Diesel,28
+SCANIA,Tanquero,Diesel,28
+ISUZU,Camioneta,Diesel,28
+QMC,Jeep,Gasolina,27
+MERCEDES BENZ,Autobus,Gasolina,27
+Otras Marcas,Furgoneta C,Diesel,27
+CITROEN,Furgoneta P,Gasolina,26
+LAND ROVER,Furgoneta P,Diesel,25
+MAZDA,Camión,Gasolina,25
+TATA,Camión,Diesel,25
+TOYOTA,Volqueta,Diesel,24
+VOLKSWAGEN,Automóvil,Diesel,24
+MAN,Otra Clase,Diesel,24
+FREIGHTLINER,Tanquero,Diesel,24
+ZOTYE,Automóvil,Gasolina,24
+SSANGYONG,Furgoneta C,Diesel,23
+JAC,Autobus,Diesel,23
+MAZDA,Camioneta,Gas liquado de petróleo,23
+CHEVROLET,Autobus,Gasolina,22
+KENWORTH,Tanquero,Diesel,22
+ISUZU,Otra Clase,Diesel,22
+TATA,Camioneta,Gasolina,21
+MITSUBISHI,Furgoneta C,Diesel,21
+TOYOTA,Tanquero,Diesel,21
+HYUNDAI,Trailer,Diesel,21
+DODGE,Volqueta,Diesel,20
+CITROEN,Furgoneta C,Gasolina,20
+FIAT,Volqueta,Diesel,20
+VOLVO,Jeep,Gasolina,19
+LEXUS,Jeep,Gasolina,19
+VOLKSWAGEN,Tanquero,Diesel,19
+MERCEDES BENZ,Furgoneta P,Diesel,19
+SKODA,Furgoneta P,Diesel,18
+SUBARU,Camioneta,Gasolina,18
+Otras Marcas,Jeep,Diesel,18
+INTERNATIONAL,Furgoneta P,Gasolina,17
+LEXUS,Furgoneta P,Gasolina,17
+FORD,Jeep,Diesel,17
+DAIHATSU,Autobus,Diesel,17
+DONGFENG,Motocicleta,Gasolina,17
+DODGE,Camioneta,Diesel,16
+GMC,Camioneta,Diesel,16
+MAN,Tanquero,Diesel,16
+CHANGHE,Furgoneta P,Gasolina,16
+FIAT,Jeep,Gasolina,16
+MAN,Autobus,Diesel,16
+AUDI,Jeep,Gasolina,16
+MERCEDES BENZ,Furgoneta C,Gasolina,16
+DAIHATSU,Furgoneta C,Diesel,16
+PORSCHE,Furgoneta P,Gasolina,16
+VOLKSWAGEN,Otra Clase,Diesel,15
+Otras Marcas,Volqueta,Gasolina,15
+FREIGHTLINER,Otra Clase,Diesel,15
+ASIA,Camioneta,Gasolina,15
+DONGFENG,Volqueta,Diesel,14
+MACK,Volqueta,Gasolina,14
+INTERNATIONAL,Otra Clase,Gasolina,14
+FORD,Furgoneta P,Diesel,14
+CHANGAN,Camión,Gasolina,14
+DAIHATSU,Otra Clase,Diesel,14
+MAZDA,Furgoneta C,Diesel,13
+HONDA,Camioneta,Gasolina,13
+CHEVROLET,Tanquero,Gasolina,13
+MACK,Trailer,Gasolina,13
+TATA,Jeep,Diesel,13
+JEEP,Jeep,Diesel,13
+RENAULT,Otra Clase,Diesel,13
+INTERNATIONAL,Camioneta,Diesel,12
+VOLKSWAGEN,Furgoneta C,Diesel,12
+JEEP,Camioneta,Diesel,12
+SUZUKI,Motocicleta,Gas liquado de petróleo,12
+WILLYS,Furgoneta P,Gasolina,12
+Otras Marcas,Furgoneta P,Diesel,12
+Otras Marcas,Autobus,Gasolina,12
+GMC,Tanquero,Diesel,12
+CHEVROLET,Jeep,Gas liquado de petróleo,12
+QMC,Jeep,Diesel,12
+ZX AUTO,Jeep,Gasolina,11
+FORD,Trailer,Gasolina,11
+TOYOTA,Autobus,Gasolina,11
+FOTON,Volqueta,Diesel,11
+VOLKSWAGEN,Automóvil,Gas liquado de petróleo,11
+KIA,Tanquero,Diesel,11
+VOLVO,Camioneta,Gasolina,11
+INTERNATIONAL,Tanquero,Gasolina,11
+NISSAN,Volqueta,Gasolina,11
+SUZUKI,Camioneta,Gasolina,11
+KENWORTH,Otra Clase,Diesel,11
+RENAULT,Trailer,Diesel,11
+DODGE,Otra Clase,Gasolina,11
+TATA,Furgoneta P,Gasolina,11
+BYD,Furgoneta P,Gasolina,10
+QMC,Autobus,Diesel,10
+FOTON,Furgoneta C,Diesel,10
+DAEWOO,Jeep,Gasolina,10
+QMC,Automóvil,Gasolina,10
+TOYOTA,Automóvil,Diesel,10
+Otras Marcas,Trailer,Gasolina,10
+PEUGEOT,Furgoneta C,Gasolina,10
+CITROEN,Furgoneta P,Diesel,9
+KIA,Volqueta,Diesel,9
+AUSTIN,Furgoneta P,Gasolina,9
+TOYOTA,Automóvil,Gas liquado de petróleo,9
+KIA,Trailer,Diesel,9
+AUDI,Furgoneta P,Gasolina,9
+DONGFENG,Otra Clase,Diesel,9
+HYUNDAI,Automóvil,Gas liquado de petróleo,9
+GMC,Volqueta,Gasolina,9
+MACK,Otra Clase,Gasolina,9
+RENAULT,Automóvil,Gas liquado de petróleo,9
+DONGFENG,Trailer,Diesel,9
+GREAT WALL,Jeep,Gasolina,9
+CHRYSLER,Jeep,Gasolina,9
+MERCEDES BENZ,Otra Clase,Gasolina,9
+HINO,Tanquero,Gasolina,9
+INTERNATIONAL,Furgoneta C,Gasolina,9
+QMC,Camión,Gasolina,9
+CHEVROLET,Furgoneta P,Gas liquado de petróleo,8
+DATSUN,Furgoneta C,Gasolina,8
+QMC,Otra Clase,Diesel,8
+MERCEDES BENZ,Volqueta,Gasolina,8
+GMC,Autobus,Gasolina,8
+FORD,Jeep,Gas liquado de petróleo,8
+QMC,Trailer,Diesel,8
+FAW,Autobus,Diesel,8
+CHERY,Furgoneta P,Gasolina,8
+JAC,Otra Clase,Diesel,8
+Otras Marcas,Motocicleta,Diesel,8
+KIA,Automóvil,Gas liquado de petróleo,8
+VOLVO,Tanquero,Diesel,8
+VOLKSWAGEN,Trailer,Diesel,8
+TATA,Furgoneta P,Diesel,8
+Otras Marcas,Otra Clase,Gasolina,8
+FAW,Volqueta,Diesel,8
+FORD,Automóvil,Diesel,8
+FORMOSA,Motocicleta,Gasolina,8
+RENAULT,Camioneta,Gasolina,8
+DODGE,Tanquero,Diesel,8
+VOLKSWAGEN,Jeep,Diesel,8
+RENAULT,Furgoneta C,Gasolina,8
+PEUGEOT,Automóvil,Gas liquado de petróleo,7
+MITSUBISHI,Volqueta,Gasolina,7
+DODGE,Furgoneta C,Diesel,7
+FIAT,Automóvil,Diesel,7
+TOYOTA,Tanquero,Gasolina,7
+SAIC WULING,Furgoneta P,Gasolina,7
+MITSUBISHI,Trailer,Diesel,7
+ISUZU,Trailer,Diesel,7
+HINO,Otra Clase,Gasolina,7
+MITSUBISHI,Autobus,Gasolina,7
+JEEP,Furgoneta P,Diesel,7
+LIFAN,Automóvil,Gasolina,7
+FIAT,Autobus,Diesel,7
+GMC,Otra Clase,Gasolina,7
+MERCEDES BENZ,Camioneta,Diesel,7
+DODGE,Otra Clase,Diesel,7
+DODGE,Volqueta,Gasolina,7
+TATA,Camión,Gasolina,7
+CITROEN,Camioneta,Diesel,7
+NISSAN,Automóvil,Diesel,6
+VOLKSWAGEN,Autobus,Gasolina,6
+HINO,Camioneta,Diesel,6
+TOYOTA,Trailer,Diesel,6
+DONGFENG,Tanquero,Diesel,6
+JMC,Camioneta,Gasolina,6
+HYUNDAI,Autobus,Gasolina,6
+GREAT WALL,Camioneta,Diesel,6
+MAZDA,Automóvil,Gas liquado de petróleo,6
+ISUZU,Furgoneta C,Diesel,6
+FORD,Camioneta,Gas liquado de petróleo,6
+PEGASO,Camión,Diesel,6
+KENWORTH,Trailer,Gasolina,6
+TOYOTA,Jeep,Gas liquado de petróleo,6
+AUDI,Jeep,Diesel,6
+VOLKSWAGEN,Furgoneta P,Diesel,5
+PEGASO,Otra Clase,Diesel,5
+MERCEDES BENZ,Jeep,Diesel,5
+ASIA,Trailer,Diesel,5
+HYUNDAI,Jeep,Gas liquado de petróleo,5
+GMC,Otra Clase,Diesel,5
+CITROEN,Camioneta,Gasolina,5
+DAIHATSU,Volqueta,Diesel,5
+SSANGYONG,Automóvil,Gasolina,5
+CHEVROLET,Trailer,Gasolina,5
+AUSTIN,Jeep,Gasolina,5
+DONGFENG,Camión,Gasolina,5
+JAC,Volqueta,Diesel,5
+PEGASO,Volqueta,Diesel,5
+VOLVO,Volqueta,Gasolina,5
+SHINERAY,Motocicleta,Diesel,5
+MITSUBISHI,Automóvil,Diesel,5
+RENAULT,Volqueta,Diesel,5
+FOTON,Trailer,Diesel,5
+Otras Marcas,Tanquero,Gasolina,5
+ASIA,Camión,Diesel,5
+JMC,Camión,Gasolina,4
+FOTON,Camión,Gasolina,4
+VOLVO,Automóvil,Diesel,4
+INTERNATIONAL,Trailer,Gasolina,4
+SCANIA,Camión,Gasolina,4
+GMC,Furgoneta P,Diesel,4
+MITSUBISHI,Otra Clase,Gasolina,4
+QMC,Volqueta,Diesel,4
+JMC,Autobus,Diesel,4
+TOYOTA,Camioneta,Gas liquado de petróleo,4
+ASIA,Jeep,Gasolina,4
+FIAT,Tanquero,Diesel,4
+CHEVROLET,Automóvil,Eléctrico,4
+GREAT WALL,Furgoneta P,Gasolina,4
+RENAULT,Tanquero,Diesel,4
+Otras Marcas,Motocicleta,Gas liquado de petróleo,4
+SUBARU,Jeep,Gasolina,4
+NISSAN,Automóvil,Gas liquado de petróleo,4
+SSANGYONG,Automóvil,Diesel,4
+PEGASO,Trailer,Diesel,4
+JAC,Camión,Gasolina,4
+FAW,Otra Clase,Diesel,4
+VOLKSWAGEN,Camión,Gasolina,4
+ASIA,Furgoneta P,Gasolina,4
+DODGE,Trailer,Diesel,4
+RENAULT,Camión,Diesel,4
+CITROEN,Automóvil,Diesel,3
+KIA,Otra Clase,Gasolina,3
+HONDA,Motocicleta,Gas liquado de petróleo,3
+VOLVO,Trailer,Gasolina,3
+QMC,Tanquero,Diesel,3
+FORD,Automóvil,Gas liquado de petróleo,3
+AUDI,Furgoneta P,Diesel,3
+SUZUKI,Otra Clase,Gasolina,3
+LAND ROVER,Automóvil,Gasolina,3
+LAND ROVER,Camioneta,Diesel,3
+ASIA,Camioneta,Diesel,3
+DAIHATSU,Tanquero,Gasolina,3
+MAZDA,Autobus,Gasolina,3
+SUZUKI,Automóvil,Diesel,3
+FIAT,Otra Clase,Diesel,3
+GMC,Furgoneta C,Diesel,3
+VOLVO,Autobus,Gasolina,3
+FIAT,Trailer,Diesel,3
+VOLKSWAGEN,Otra Clase,Gasolina,3
+JAC,Tanquero,Diesel,3
+HINO,Trailer,Gasolina,3
+DAEWOO,Camioneta,Gasolina,3
+NISSAN,Autobus,Gasolina,3
+SHINERAY,Motocicleta,Gas liquado de petróleo,3
+JAC,Trailer,Diesel,3
+MAZDA,Otra Clase,Gasolina,3
+MOTOR UNO,Motocicleta,Gas liquado de petróleo,3
+SKODA,Furgoneta C,Gasolina,3
+CHANGHE,Camión,Gasolina,3
+SUZUKI,Motocicleta,Diesel,3
+MERCEDES BENZ,Tanquero,Gasolina,3
+ISUZU,Autobus,Gasolina,3
+JEEP,Automóvil,Gasolina,3
+JINBEI HAISE,Otra Clase,Diesel,3
+MITSUBISHI,Jeep,Gas liquado de petróleo,3
+MAZDA,Automóvil,Diesel,3
+MOTOR UNO,Motocicleta,Diesel,3
+SUZUKI,Jeep,Diesel,3
+FIAT,Furgoneta C,Diesel,2
+SCANIA,Trailer,Gasolina,2
+LADA,Automóvil,Diesel,2
+FORD,Furgoneta P,Gas liquado de petróleo,2
+GMC,Autobus,Diesel,2
+SKODA,Automóvil,Gas liquado de petróleo,2
+DAIHATSU,Jeep,Gas liquado de petróleo,2
+DATSUN,Camión,Gasolina,2
+DODGE,Trailer,Gasolina,2
+PEUGEOT,Jeep,Gasolina,2
+DAYTONA,Motocicleta,Gas liquado de petróleo,2
+FAW,Camión,Gasolina,2
+PEUGEOT,Furgoneta C,Diesel,2
+WILLYS,Jeep,Diesel,2
+DAIHATSU,Otra Clase,Gasolina,2
+DODGE,Tanquero,Gasolina,2
+ASIA,Camión,Gasolina,2
+QMC,Motocicleta,Diesel,2
+FREIGHTLINER,Trailer,Gasolina,2
+NISSAN,Tanquero,Gasolina,2
+RANGER,Motocicleta,Diesel,2
+CHEVROLET,Motocicleta,Gasolina,2
+MITSUBISHI,Tanquero,Gasolina,2
+DONGFENG,Otra Clase,Gasolina,2
+HYUNDAI,Furgoneta P,Gas liquado de petróleo,2
+DATSUN,Jeep,Gasolina,2
+MACK,Camión,Gasolina,2
+YAMAHA,Motocicleta,Diesel,2
+FREIGHTLINER,Autobus,Diesel,2
+FIAT,Automóvil,Gas liquado de petróleo,2
+YAMAHA,Motocicleta,Gas liquado de petróleo,2
+SAEHAN,Furgoneta P,Gasolina,2
+QMC,Camioneta,Gasolina,2
+HONDA,Motocicleta,Diesel,2
+MERCEDES BENZ,Trailer,Gasolina,2
+DAIHATSU,Volqueta,Gasolina,2
+MITSUBISHI,Trailer,Gasolina,2
+RENAULT,Automóvil,Diesel,2
+MERCEDES BENZ,Camioneta,Gasolina,2
+DAIHATSU,Automóvil,Diesel,2
+LADA,Automóvil,Gas liquado de petróleo,2
+GMC,Automóvil,Gasolina,2
+BMW,Camioneta,Gasolina,2
+SCANIA,Otra Clase,Gasolina,2
+MAZDA,Furgoneta P,Diesel,2
+VOLVO,Furgoneta C,Gasolina,2
+ASIA,Jeep,Diesel,2
+QMC,Automóvil,Diesel,2
+WILLYS,Automóvil,Gasolina,2
+ISUZU,Tanquero,Gasolina,2
+GMC,Jeep,Diesel,2
+MAN,Trailer,Gasolina,2
+FAW,Trailer,Diesel,2
+JINBEI HAISE,Otra Clase,Gasolina,2
+DATSUN,Camioneta,Diesel,2
+KIA,Trailer,Gasolina,2
+CHRYSLER,Camioneta,Gasolina,2
+DUCAR,Motocicleta,Gas liquado de petróleo,2
+SAIC WULING,Automóvil,Gasolina,2
+SCANIA,Volqueta,Gasolina,2
+JIANSHE,Motocicleta,Eléctrico,1
+SAIC WULING,Autobus,Gasolina,1
+FIAT,Furgoneta P,Gas liquado de petróleo,1
+SSANGYONG,Otra Clase,Diesel,1
+KIA,Autobus,Gasolina,1
+DATSUN,Camión,Diesel,1
+ASIA,Tanquero,Diesel,1
+JEEP,Otra Clase,Diesel,1
+RANGER,Motocicleta,Gas liquado de petróleo,1
+FOTON,Otra Clase,Diesel,1
+MAZDA,Jeep,Diesel,1
+CHANGHE,Autobus,Gasolina,1
+WILLYS,Furgoneta P,Diesel,1
+KENWORTH,Camión,Gasolina,1
+Otras Marcas,Autobus,Gas liquado de petróleo,1
+ISUZU,Volqueta,Gasolina,1
+FAW,Camioneta,Diesel,1
+GREAT WALL,Furgoneta C,Diesel,1
+HONDA,Furgoneta P,Gas liquado de petróleo,1
+HINO,Camioneta,Gasolina,1
+VOLKSWAGEN,Trailer,Gasolina,1
+FREIGHTLINER,Tanquero,Gasolina,1
+JIANSHE,Motocicleta,Gas liquado de petróleo,1
+ISUZU,Furgoneta P,Diesel,1
+ORO MOTO,Motocicleta,Diesel,1
+INTERNATIONAL,Furgoneta C,Diesel,1
+DUCAR,Motocicleta,Diesel,1
+CHANGAN,Furgoneta C,Diesel,1
+JINBEI HAISE,Camioneta,Diesel,1
+TATA,Autobus,Diesel,1
+TOYOTA,Furgoneta C,Gas liquado de petróleo,1
+Otras Marcas,Furgoneta C,Gas liquado de petróleo,1
+KIA,Furgoneta P,Gas liquado de petróleo,1
+WILLYS,Camión,Gasolina,1
+CITROEN,Jeep,Gasolina,1
+DAEWOO,Trailer,Diesel,1
+KTM,Motocicleta,Eléctrico,1
+AUSTIN,Volqueta,Diesel,1
+ISUZU,Jeep,Diesel,1
+HYUNDAI,Motocicleta,Diesel,1
+SUZUKI,Jeep,Gas liquado de petróleo,1
+SAEHAN,Camión,Diesel,1
+SAEHAN,Volqueta,Gasolina,1
+QINGQI,Motocicleta,Gas liquado de petróleo,1
+MAHINDRA,Jeep,Gasolina,1
+TOYOTA,Automóvil,Eléctrico,1
+ZX AUTO,Furgoneta C,Diesel,1
+MAZDA,Motocicleta,Gasolina,1
+MACK,Autobus,Diesel,1
+SCANIA,Autobus,Eléctrico,1
+CHRYSLER,Automóvil,Diesel,1
+SUZUKI,Furgoneta C,Diesel,1
+WILLYS,Otra Clase,Gasolina,1
+FIAT,Camioneta,Gas liquado de petróleo,1
+CHANGHE,Camión,Diesel,1
+QMC,Tanquero,Gasolina,1
+PEGASO,Volqueta,Gasolina,1
+LONGJIA,Motocicleta,Gas liquado de petróleo,1
+JEEP,Jeep,Gas liquado de petróleo,1
+INTERNATIONAL,Furgoneta P,Diesel,1
+ASIA,Autobus,Gasolina,1
+NISSAN,Camioneta,Gas liquado de petróleo,1
+DAEWOO,Furgoneta C,Diesel,1
+GALARDI,Motocicleta,Gas liquado de petróleo,1
+ZX AUTO,Furgoneta C,Gasolina,1
+CHEVROLET,Camioneta,Eléctrico,1
+BMW,Furgoneta P,Diesel,1
+HYUNDAI,Automóvil,Eléctrico,1
+DONGFENG,Volqueta,Gasolina,1
+DAIHATSU,Autobus,Gasolina,1
+VOLKSWAGEN,Camioneta,Gas liquado de petróleo,1
+HYUNDAI,Furgoneta C,Gas liquado de petróleo,1
+MAN,Camión,Gasolina,1
+FIAT,Camión,Gasolina,1
+TOYOTA,Furgoneta P,Gas liquado de petróleo,1
+LAND ROVER,Otra Clase,Gasolina,1
+SAIC WULING,Jeep,Gasolina,1
+ASIA,Volqueta,Diesel,1
+KIA,Jeep,Gas liquado de petróleo,1
+LONCIN,Motocicleta,Gas liquado de petróleo,1
+KENWORTH,Volqueta,Gasolina,1
+KENWORTH,Tanquero,Gasolina,1
+LADA,Motocicleta,Gasolina,1
+DAEWOO,Furgoneta C,Gas liquado de petróleo,1
+YAMAHA,Otra Clase,Gasolina,1
+MAZDA,Tanquero,Gasolina,1
+TEKNO,Motocicleta,Gas liquado de petróleo,1
+HINO,Automóvil,Gasolina,1
+BMW,Automóvil,Gas liquado de petróleo,1
+RENAULT,Jeep,Gasolina,1
+DONGFENG,Tanquero,Gasolina,1
+FIAT,Volqueta,Gasolina,1
+DODGE,Autobus,Gasolina,1
+HYUNDAI,Camión,Eléctrico,1
+JINBEI HAISE,Autobus,Diesel,1
+GREAT WALL,Furgoneta C,Gasolina,1
+CHEVROLET,Jeep,Eléctrico,1
+HYUNDAI,Tanquero,Gasolina,1
+DAYTONA,Motocicleta,Diesel,1
+PEGASO,Motocicleta,Diesel,1
+FAW,Automóvil,Gasolina,1
+DAEWOO,Automóvil,Diesel,1
+DODGE,Jeep,Diesel,1
+HYUNDAI,Trailer,Gasolina,1
+MAZDA,Furgoneta P,Gas liquado de petróleo,1
+DACIA,Furgoneta C,Gasolina,1
+SAEHAN,Camioneta,Diesel,1
+DAEWOO,Jeep,Diesel,1
+FOTON,Tanquero,Diesel,1
+FOTON,Autobus,Diesel,1
+MITSUBISHI,Automóvil,Gas liquado de petróleo,1
+INTERNATIONAL,Autobus,Gasolina,1
+VOLVO,Camión,Gasolina,1
+CHRYSLER,Otra Clase,Diesel,1
+CITROEN,Otra Clase,Diesel,1
+KIA,Furgoneta C,Gas liquado de petróleo,1
+FIAT,Camioneta,Diesel,1
+DAEWOO,Furgoneta P,Diesel,1
+NISSAN,Jeep,Gas liquado de petróleo,1
+TATA,Otra Clase,Diesel,1
+ORO MOTO,Motocicleta,Gas liquado de petróleo,1
+RENAULT,Camión,Gasolina,1
+OKAZAKI,Automóvil,Gasolina,1
+DODGE,Autobus,Diesel,1
+HONDA,Furgoneta P,Diesel,1
+DODGE,Furgoneta P,Diesel,1
+SSANGYONG,Furgoneta C,Gasolina,1
+PEGASO,Camión,Gasolina,1
+RANGER,Furgoneta P,Gasolina,1
+MAN,Volqueta,Gasolina,1
+DAEWOO,Autobus,Diesel,1
+MITSUBISHI,Furgoneta P,Gas liquado de petróleo,1
+SCANIA,Tanquero,Gasolina,1
+JIALING,Motocicleta,Diesel,1
+TVS,Motocicleta,Gasolina,1
+DATSUN,Trailer,Gasolina,1
